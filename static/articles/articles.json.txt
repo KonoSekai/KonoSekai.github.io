@@ -1,0 +1,7 @@
+name:文件名
+type:类型[0:置顶,1:原创,2:转载]
+cate:分类
+time:时间
+cover:封面图片地址
+title:标题
+summary:简介

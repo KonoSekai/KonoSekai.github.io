@@ -1,0 +1,28 @@
+[{
+    "name": 1,
+    "type": 0,
+    "cate": "杂谈",
+    "time": "2018-10-8",
+    "cover": "hello word.png",
+    "title": "Hello World",
+    "summary": "这里是Sekai的个人博客,用来写写技术文章和游戏评测。"
+  },
+  {
+    "name": 2,
+    "type": 1,
+    "cate": "游戏开发",
+    "time": "2018-12-15",
+    "cover": "",
+    "title": "【网页小游戏】2048",
+    "summary": ""
+  },
+  {
+    "name": 3,
+    "type": 1,
+    "cate": "编程开发",
+    "time": "2018-3-4",
+    "cover": "",
+    "title": "【Chrome扩展】AcFun抽奖工具",
+    "summary": ""
+  }
+]

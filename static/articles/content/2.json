@@ -1,4 +1,4 @@
 {
   "name": "2",
-  "content": "<div style='min-height: 100%;min-width: 100%;text-align: center;'><img src='/static/img/2019/3/6/2048.png' style='margin: 10px auto;max-width: 500px;'><a href='https://2048.anyplayer.cc/'>游戏地址</a>·<a href='https://github.com/KonoSekai/2048'>源码地址</a></div>"
+  "content": "<div style='min-height: 100%;min-width: 100%;text-align: center;'><img src='/static/img/2019/3/6/2048.png' style='margin: 10px auto;max-width: 500px;'><br><a href='https://2048.anyplayer.cc/'>游戏地址</a>·<a href='https://github.com/KonoSekai/2048'>源码地址</a></div>"
 }

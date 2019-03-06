@@ -1,4 +1,5 @@
-[{
+[
+  {
     "name": 1,
     "type": 0,
     "cate": "杂谈",
@@ -12,17 +13,17 @@
     "type": 1,
     "cate": "游戏开发",
     "time": "2018-12-15",
-    "cover": "",
+    "cover": "ac.jpg",
     "title": "【网页小游戏】2048",
-    "summary": ""
+    "summary": "根据Gabriele Cirulli原版2048自制的2048网页小游戏，使用Vue.js编写. "
   },
   {
     "name": 3,
     "type": 1,
     "cate": "编程开发",
-    "time": "2018-3-4",
+    "time": "2019-3-4",
     "cover": "",
-    "title": "【Chrome扩展】AcFun抽奖工具",
-    "summary": ""
+    "title": "【Chrome扩展】AcFun评论抽奖工具",
+    "summary": "AcFun弹幕视频网站评论抽奖工具"
   }
 ]
